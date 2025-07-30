@@ -61,7 +61,6 @@ python kredit_vs_etf.py
 ```
 
 Results will be displayed in the terminal and saved as a plot (`loan.png`).
-![Alt text](example.png)
 
 ---
 
