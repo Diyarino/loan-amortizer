@@ -31,7 +31,7 @@ Es wird ein Plot `kredit.png` generiert, der die Entwicklung von:
 
 zeigt. Der Break-Even-Punkt wird im Diagramm hervorgehoben. Siehe Beispiel:
 
-![Alt text](kredit.png)
+![Alt text](example.png)
 
 ---
 
