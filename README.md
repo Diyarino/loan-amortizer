@@ -30,7 +30,7 @@ A plot named `kredit.png` is generated, showing the development of:
 
 The break-even point is highlighted in the chart. See example below:
 
-![Alt text](example.png)
+<img src="example.png" width="500" />
 
 ---
 
